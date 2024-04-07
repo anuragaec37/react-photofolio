@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-photofolio/static/css/main.69700b2c.css",
+    "main.js": "/react-photofolio/static/js/main.bcc1b583.js",
+    "static/media/album_3.jpg": "/react-photofolio/static/media/album_3.e2ed5fb7b943aad2252c.jpg",
+    "static/media/error.png": "/react-photofolio/static/media/error.f794c0ef17e57bc3cc2b.png",
+    "static/media/logo_4.png": "/react-photofolio/static/media/logo_4.3155123b6f6c5f703c73.png",
+    "index.html": "/react-photofolio/index.html",
+    "main.69700b2c.css.map": "/react-photofolio/static/css/main.69700b2c.css.map",
+    "main.bcc1b583.js.map": "/react-photofolio/static/js/main.bcc1b583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69700b2c.css",
+    "static/js/main.bcc1b583.js"
+  ]
+}
